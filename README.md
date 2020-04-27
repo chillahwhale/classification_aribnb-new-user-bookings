@@ -1,5 +1,5 @@
 # GA-DSI-Hackathon-Airbnb
-### Nate Buko and Matt Burke
+### Nate Bukowski and Matt Burke
 
 # Contents:
 - [Problem Statement](#Problem-Statement)

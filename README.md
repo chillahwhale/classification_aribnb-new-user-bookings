@@ -1,5 +1,5 @@
 # Project Summary
-### Nate Bukowski and Matt Burke
+**Project Team**: Nate Bukowski and Matt Burke
 
 # Contents:
 - [Problem Statement](#Problem-Statement)

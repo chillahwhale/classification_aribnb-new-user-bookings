@@ -1,4 +1,4 @@
-# GA-DSI-Hackathon-Airbnb
+# Project Summary
 ### Nate Bukowski and Matt Burke
 
 # Contents:
